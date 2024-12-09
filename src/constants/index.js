@@ -1,0 +1,1 @@
+export const logo = "https://solution-group.vercel.app/assets/logo2-1ec3569a.png"
